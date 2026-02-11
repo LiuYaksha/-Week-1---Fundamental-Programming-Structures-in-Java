@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class soal_satu {
+public class DataTypes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
@@ -26,4 +26,5 @@ public class soal_satu {
         }
         scanner.close();
     }
+
 }
